@@ -1,0 +1,6 @@
+Maggie,F,20
+Emma,F,18
+Grace,F,18
+Mark,M,18
+Aidan,M,15
+John,M,13
